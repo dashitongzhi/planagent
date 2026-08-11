@@ -638,7 +638,7 @@ git push origin feature/amazing-feature
 
 このプロジェクトに興味をお持ちいただけましたら、コラボレーション、フィードバック、または気軽なお話でも大歓迎です。お気軽にご連絡ください！
 
-- 📧 メール：[cajd6876@gmail.com](mailto:cajd6876@gmail.com) | [2965866908@qq.com](mailto:2965866908@qq.com)
+- 📧 メール：[cajd6876@gmail.com](mailto:cajd6876@gmail.com)
 - 🐛 Issues：[GitHub Issues](https://github.com/dashitongzhi/MingJian/issues)
 - 💬 ディスカッション：[GitHub Discussions](https://github.com/dashitongzhi/MingJian/discussions)
 

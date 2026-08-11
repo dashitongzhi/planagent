@@ -635,7 +635,7 @@ git push origin feature/amazing-feature
 
 अगर आप इस प्रोजेक्ट में रुचि रखते हैं — चाहे सहयोग के लिए, सुझाव के लिए, या बस बातचीत के लिए — तो बेझिझक संपर्क करें! हमें आपसे सुनकर खुशी होगी।
 
-- 📧 ईमेल: [cajd6876@gmail.com](mailto:cajd6876@gmail.com) | [2965866908@qq.com](mailto:2965866908@qq.com)
+- 📧 ईमेल: [cajd6876@gmail.com](mailto:cajd6876@gmail.com)
 - 🐛 इश्यू: [GitHub Issues](https://github.com/dashitongzhi/MingJian/issues)
 - 💬 चर्चाएँ: [GitHub Discussions](https://github.com/dashitongzhi/MingJian/discussions)
 

@@ -676,7 +676,7 @@ This project is licensed under the Apache License 2.0 - see [LICENSE](LICENSE) f
 
 If you're interested in this project — whether for collaboration, feedback, or just a chat — feel free to reach out! We'd love to hear from you.
 
-- 📧 Email: [cajd6876@gmail.com](mailto:cajd6876@gmail.com) | [2965866908@qq.com](mailto:2965866908@qq.com)
+- 📧 Email: [cajd6876@gmail.com](mailto:cajd6876@gmail.com)
 - 🐛 Issues: [GitHub Issues](https://github.com/dashitongzhi/MingJian/issues)
 - 💬 Discussions: [GitHub Discussions](https://github.com/dashitongzhi/MingJian/discussions)
 

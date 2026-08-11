@@ -622,7 +622,7 @@ git push origin feature/amazing-feature
 
 如果你对这个项目感兴趣——无论是想合作、提建议，还是单纯想聊聊——欢迎随时联系！
 
-- 📧 邮箱：[cajd6876@gmail.com](mailto:cajd6876@gmail.com) | [2965866908@qq.com](mailto:2965866908@qq.com)
+- 📧 邮箱：[cajd6876@gmail.com](mailto:cajd6876@gmail.com)
 - 🐛 问题：[GitHub Issues](https://github.com/dashitongzhi/MingJian/issues)
 - 💬 讨论：[GitHub Discussions](https://github.com/dashitongzhi/MingJian/discussions)
 

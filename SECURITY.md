@@ -11,12 +11,10 @@ unofficial distributions do not receive security fixes.
 
 Do not disclose a suspected vulnerability in a public issue, discussion, or pull request.
 Email the maintainers at [cajd6876@gmail.com](mailto:cajd6876@gmail.com) with the subject
-`[MingJian Security]`, or use [2965866908@qq.com](mailto:2965866908@qq.com) if the primary
-address is unavailable.
+`[MingJian Security]`.
 
 请勿在公开 Issue、Discussion 或 Pull Request 中披露疑似漏洞。请发送邮件至
-[cajd6876@gmail.com](mailto:cajd6876@gmail.com)，主题使用 `[MingJian Security]`；若主邮箱
-不可用，可联系 [2965866908@qq.com](mailto:2965866908@qq.com)。
+[cajd6876@gmail.com](mailto:cajd6876@gmail.com)，主题使用 `[MingJian Security]`。
 
 Include the following information when practical:
 
@@ -42,4 +40,3 @@ deployment impact. Please allow coordinated remediation before public disclosure
 
 维护者计划在三个工作日内确认收到报告，并在七个工作日内给出初步评估。修复和披露时间将
 根据漏洞严重程度与部署影响确定；请在公开披露前预留协同修复时间。
-
